@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #fff ! important;
+}
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: #565387;
+}
+.navbar ul{
+    margin-left: 50rem;
+}
+.navbar a{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
